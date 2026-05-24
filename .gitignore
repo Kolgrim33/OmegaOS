@@ -10,3 +10,4 @@ pool/
 dists/
 install/
 [BOOT]/
+venv/
