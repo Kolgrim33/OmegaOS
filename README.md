@@ -1,5 +1,5 @@
 
-# OmegaOS 🔷
+# OmegaOS 
 
 **A sovereign Linux distribution built for Africa.**
 
@@ -8,7 +8,7 @@ OmegaOS is a custom Linux distribution engineered for deployment in resource-con
 
 ---
 
-## 🖥️ Features
+##  Features
 
 - **Hardware Optimizer** — auto-detects RAM and CPU, tunes performance for low-spec machines
 - **Low Bandwidth Mode** — throttles background data to save costs on metered connections
@@ -18,13 +18,14 @@ OmegaOS is a custom Linux distribution engineered for deployment in resource-con
 - **OmegaOS Welcome App** — custom first-boot experience with Axoryn branding
 - **Dark theme by default** — Yaru-dark with custom Omega wallpaper
 - **GNOME 46 Desktop** — modern desktop environment
+- **Future plans for cyberlearning 
 
 ---
 
 
 ---
 
-## 🏗️ Build From Source
+## Build From Source
 
 ### Prerequisites
 - Ubuntu 24.04 host
