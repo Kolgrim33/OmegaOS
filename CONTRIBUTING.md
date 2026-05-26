@@ -5,13 +5,13 @@ Thank you for your interest in contributing to OmegaOS! We welcome contributions
 ##  Who We're Looking For
 
 - Linux/Ubuntu developers
-- Python/GTK developers (welcome app, tools)
-- UI/UX designers (themes, branding)
-- Testers (hardware compatibility)
+- Python/GTK developers 
+- UI/UX designers (
+- Testers 
 - Documentation writers
-- Translators (Shona, Ndebele, Swahili, French)
+- Anyone interestd in kernel devv
 
-## 🚀 How to Contribute
+##  How to Contribute
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature/your-feature`
@@ -20,7 +20,7 @@ Thank you for your interest in contributing to OmegaOS! We welcome contributions
 5. Push: `git push origin feature/your-feature`
 6. Open a Pull Request
 
-## 🐛 Reporting Issues
+## Reporting Issues
 
 Open a GitHub Issue with:
 - Hardware specs
@@ -34,7 +34,9 @@ Open a GitHub Issue with:
 - [ ] Plymouth boot splash
 - [ ] OmegaAI terminal assistant
 - [ ] VirtualBox resolution fix
-- [ ] THREADR robot integration panel
+  
 
-## 📞 Contact
+##  Contact
 LinkedIn - Selby Mashiki
+
+Happy Developing!
