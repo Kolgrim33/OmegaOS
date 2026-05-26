@@ -12,8 +12,7 @@ OmegaOS is a custom Linux distribution engineered for deployment in resource-con
 
 - **Hardware Optimizer** — auto-detects RAM and CPU, tunes performance for low-spec machines
 - **Low Bandwidth Mode** — throttles background data to save costs on metered connections
-- **Firefox (Mozilla DEB)** — pre-installed, no snap required
-- **LibreOffice Suite** — full office suite, works completely offline
+- **LibreOffice Suite** — full office suite, works completely offline,no need for cracking or subscription
 - **XFCE Settings Manager** — lightweight settings for WiFi, Bluetooth, Display, Sound
 - **OmegaOS Welcome App** — custom first-boot experience with Axoryn branding
 - **Dark theme by default** — Yaru-dark with custom Omega wallpaper
