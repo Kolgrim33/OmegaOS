@@ -14,7 +14,8 @@ OmegaOS is a custom Linux distribution engineered for deployment in resource-con
 - **Dark theme by default** — Yaru-dark with custom Omega wallpaper
 - **GNOME 46 Desktop** — modern desktop environment
 - **Future plans for cyberlearning so people can understand Linux without having to look for resources
-- implementation of a low resource using ai terminal to assist users with queries 
+- implementation of a low resource using ai terminal to assist users with queries ,especially users with no Linux experience 
+
 
 
 
