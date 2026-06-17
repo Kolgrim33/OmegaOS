@@ -11,9 +11,9 @@ OmegaOS is a custom Linux distribution engineered for deployment in resource-con
 
 Download
 
-Get the ISO from the Internet Archive:
+Get the ISO from our website:
 
-🔗 https://archive.org/details/omega-final_202606
+https://omega-os.co.zw/
 
 On the Archive page, click the ISO IMAGE link under the download options on the right side. The file is a standard bootable .iso.
 
