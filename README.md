@@ -140,9 +140,9 @@ OmegaOS is built and maintained by Axoryn Robotics — a student-led technology 
 Links
 
 
-📦 Download ISO — Internet Archive
-💻 Source Code — GitHub
-🌍 Built on Ubuntu 24.04 Noble Numbat
+ Download ISO — Internet Archive
+ Source Code — GitHub
+ Built on Ubuntu 24.04 Noble Numbat
 
 
 
